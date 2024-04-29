@@ -58,7 +58,7 @@
             <a href="dashboard.php" class="app-brand-link">
               <img src="slsulogo.png" alt="Slsu Logo" class="app-brand-logo" style="max-width: 80px; height: auto; margin-right: -18px;">
               <span class="app-brand-logo demo"></span>
-              <span class="app-brand-text demo menu-text fw-bold ms-2">SLSU-BC SRS</span><style="margin-right">
+              <h5 class="app-brand-text demo menu-text fw-bold ms-2">SLSU-BC SRS</h5>
             </a>
 
             <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
